@@ -12,7 +12,7 @@ En el siguiente orden:
 
 Adjunto en este documento encontrara igualmente un link para acceder al informe. 
 Debe contar con la autorizacion del autor para ello. 
-    - https://app.powerbi.com/groups/me/reports/2bbfef6b-eb8a-4969-99bc-638e7962445c?pbi_source=desktop
+    ```https://app.powerbi.com/groups/me/reports/2bbfef6b-eb8a-4969-99bc-638e7962445c?pbi_source=desktop``` 
 
 Igualmente un link en Github para poder accederlo en cualquier acceso.
-    - https://github.com/andycr00/BA
+    ```https://github.com/andycr00/BA```
